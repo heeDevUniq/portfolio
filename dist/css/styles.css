@@ -176,6 +176,10 @@ dt {
   font-weight: 700;
 }
 
+li {
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+}
+
 dd {
   margin-bottom: 0.5rem;
   margin-left: 0;
@@ -10983,7 +10987,7 @@ section.resume-section .resume-section-content {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
+    padding-top: 2rem;
     padding-bottom: 5rem;
   }
 }
